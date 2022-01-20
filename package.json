@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-nodejs-python-tsest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "sh ./sql-lint.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taishikato/github-actions-nodejs-python-tsest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taishikato/github-actions-nodejs-python-tsest/issues"
+  },
+  "homepage": "https://github.com/taishikato/github-actions-nodejs-python-tsest#readme",
+  "devDependencies": {
+    "eslint": "8.7.0"
+  }
+}
