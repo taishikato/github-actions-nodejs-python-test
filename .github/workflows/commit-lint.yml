@@ -1,5 +1,5 @@
 name: commit-workflow
-on: [commit]
+on: push
 jobs:
   lint:
     runs-on: ubuntu-latest
