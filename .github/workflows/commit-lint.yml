@@ -1,5 +1,5 @@
-name: pull-request-workflow
-on: [pull_request]
+name: commit-workflow
+on: [commit]
 jobs:
   lint:
     runs-on: ubuntu-latest
